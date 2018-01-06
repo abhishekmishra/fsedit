@@ -1,4 +1,4 @@
 {
     "python.formatting.provider": "yapf",
-    "python.pythonPath": "/anaconda3/bin/python"
+    "python.pythonPath": "/anaconda3/envs/fsedit/bin/python"
 }
